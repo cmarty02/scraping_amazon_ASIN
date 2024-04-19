@@ -20,7 +20,7 @@ The Amazon Reviews Scraper is a Python script built with Scrapy, allows users to
 2. Update the `csv_file_path` variable in the script to point to your CSV file.
 3. Run the script by executing:
    ```
-   python amazon_reviews_scraper.py
+   ASIN_scrapping_script.py.py
    ```
 
 The script will start scraping Amazon product review data for each ASIN listed in the CSV file and store the results in a CSV file named `amazon_reviews.csv`.
